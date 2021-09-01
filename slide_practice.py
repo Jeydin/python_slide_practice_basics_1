@@ -12,3 +12,7 @@ print("This is line 11.")
 
 # Changing the end
 print("Hello, World", end = " === ")
+
+# Escape Sequences always start with \
+
+print("My poem is titled \"My Haiku\" and it's great.")
