@@ -48,3 +48,16 @@ grade = 90
 x = 90
 
 # Naming your variables with a useful name
+
+# Case Sensitivity 
+# Name is not the same as name
+# Name is not the same as NAME
+NAME = "Tony"
+Name = "Tony"
+name = "Tony"
+
+# Convert from String to a Number
+
+userinput = "33"
+usernum = int(userinput)
+print(3 * usernum)
