@@ -61,3 +61,60 @@ name = "Tony"
 userinput = "33"
 usernum = int(userinput)
 print(3 * usernum)
+
+# User Input 
+
+name = input("What is your name? \n")
+print("Your name is", name)
+# Comma connectors add a space for us
+
+num = input("What is your number? \n")
+print("Your number is", num)
+
+# Strings & Numbers
+numString = "56"
+print(4 + int(numString))
+
+# Math Operators
+# (experssion) - tells the computer to do this first
+# ** - exponents (2 ** 5, two to the fifth power)
+# -x = negation (changes sign)
+# * - is multiply
+# / - is division
+# % - modulus (finds remainder)
+# 10 % 3 = 1, because 10 / 3 = 3 with 1 left over
+# +, - = addition, subtraction
+
+first = 2
+second = 3
+third = 10
+fourth = 20
+fifth = 3
+
+total = first + second + third
+product = fourth * fifth
+
+# // - floor division (two forward slashes)
+# aka integer division
+
+int_div = 75 // 12
+print("Integer division is", int_div)
+
+
+# Regular division
+dec1 = 4 / 4.0
+dec2 = 3/4
+print("Answer 1 is", dec1)
+print("Answer 2 is", dec2)
+
+# Shortcut operators
+
+num1 = 5
+num2 = 4
+num3 = 3
+
+num3 = num3 + 1
+num3 += 1 # Shortcut addition
+
+num2 = num2 * 2
+num *= 2 # Multiply shortcut (num2 * 2)
