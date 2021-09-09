@@ -103,7 +103,7 @@ print("Integer division is", int_div)
 
 # Regular division
 dec1 = 4 / 4.0
-dec2 = 3/4
+dec2 = 3 / 4
 print("Answer 1 is", dec1)
 print("Answer 2 is", dec2)
 
