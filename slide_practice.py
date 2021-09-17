@@ -97,7 +97,8 @@ product = fourth * fifth
 # // - floor division (two forward slashes)
 # aka integer division
 
-int_div = 75 // 12
+int_div = 75 // 12 
+# This equals 6, as it directly divides the 2 integers
 print("Integer division is", int_div)
 
 
