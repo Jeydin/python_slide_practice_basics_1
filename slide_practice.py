@@ -7,11 +7,10 @@ print("This is our slide_practice file.")
 # Blank line
 print()
 
-
 print("This is line 11.")
 
 # Changing the end
-print("Hello, World", end = " === ")
+print("Hello, World", end=" === ")
 
 # Escape Sequences always start with \
 
@@ -41,7 +40,7 @@ check = True
 # String (group of characters, in quotations)
 # List (lots of variables in a list)
 
-# Indentifier 
+# Indentifier
 # Do not use random variable names
 
 grade = 90
@@ -49,7 +48,7 @@ x = 90
 
 # Naming your variables with a useful name
 
-# Case Sensitivity 
+# Case Sensitivity
 # Name is not the same as name
 # Name is not the same as NAME
 NAME = "Tony"
@@ -62,7 +61,7 @@ userinput = "33"
 usernum = int(userinput)
 print(3 * usernum)
 
-# User Input 
+# User Input
 
 name = input("What is your name? \n")
 print("Your name is", name)
@@ -97,10 +96,9 @@ product = fourth * fifth
 # // - floor division (two forward slashes)
 # aka integer division
 
-int_div = 75 // 12 
+int_div = 75 // 12
 # This equals 6, as it directly divides the 2 integers
 print("Integer division is", int_div)
-
 
 # Regular division
 dec1 = 4 / 4.0
@@ -115,7 +113,7 @@ num2 = 4
 num3 = 3
 
 num3 = num3 + 1
-num3 += 1 # Shortcut addition
+num3 += 1  # Shortcut addition
 
 num2 = num2 * 2
-num *= 2 # Multiply shortcut (num2 * 2)
+num *= 2  # Multiply shortcut (num2 * 2)
